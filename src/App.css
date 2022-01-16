@@ -5,21 +5,21 @@
 }
 
 .icon {
-  background: url(/images/icon.png) no-repeat top left;
+  background: url(/images/icon.webp) no-repeat top left;
   width: 32px;
   height: 32px;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2) {
   .icon {
-    background: url(/images/icon@2x.png) no-repeat top left;
+    background: url(/images/icon@2x.webp) no-repeat top left;
     background-size: 32px 128px;
   }
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 3) {
   .icon {
-    background: url(/images/icon@3x.png) no-repeat top left;
+    background: url(/images/icon@3x.webp) no-repeat top left;
     background-size: 32px 128px;
   }
 }
